@@ -135,7 +135,7 @@ input, select, textarea {
 	/* fonts: rgb(26,89,135), rgb(62,180,137) */
 
 	body {
-		background-color: #464086;
+		background-color: rgb(26,89,135);
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, rgb(26,89,135) 15%, rgb(62,180,137) 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, rgb(26,89,135) 15%, rgb(62,180,137) 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, rgb(26,89,135) 15%, rgb(62,180,137) 85%);
@@ -156,7 +156,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #935d8c;
+		background-color: rgb(26,89,135);
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -2203,7 +2203,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #935d8c;
+			background: rgb(26,89,135);
 		}
 
 	input[type="checkbox"] + label,
@@ -2221,7 +2221,7 @@ input, select, textarea {
 	input[type="radio"]:checked + label:before {
 		background-color: #ffffff;
 		border-color: #ffffff;
-		color: #935d8c;
+		color: rgb(26,89,135);
 	}
 
 	input[type="checkbox"]:focus + label:before,
